@@ -1,6 +1,7 @@
 # PPO-ESD
 PPO-ESD
-This project is the source code of paper "Optimizing bidding strategy in electricity market based on graph convolutional neural network and deep reinforcement learning". It has been accepted by Applied Energy 2025.
+This project is the source code of paper "Optimizing bidding strategy in electricity market based on graph convolutional neural network and deep reinforcement learning". 
+
 # Dependencies
 Python 3.7
 Pytorch 1.12
